@@ -66,7 +66,6 @@ Let's connect people and technology together! 🌐
 ![Adguard](https://img.shields.io/badge/adguard-%2366B574.svg?&style=for-the-badge&logo=adguard&logoColor=white)
 ![Mosquitto](https://img.shields.io/badge/-Mosquitto-000?style=for-the-badge&logo=Mosquitto)
 ![Esphome](https://img.shields.io/badge/-Esphome-000?style=for-the-badge&logo=Esphome)
-
 ![Tasmota](https://img.shields.io/badge/tasmota-%231FA3EC.svg?&style=for-the-badge&logo=tasmota&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino)
 ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
