@@ -51,7 +51,7 @@ Let's connect people and technology together! 🌐
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
 
-![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
+![Ansible](https://img.shields.io/badge/-Ansible-000?style=for-the-badge&logo=Ansible)
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-000?&logo=Github-Actions)
 
 
