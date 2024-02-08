@@ -45,7 +45,7 @@ Let's connect people and technology together! 🌐
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Suse](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-000?&logo=Github-Actions)
