@@ -64,7 +64,6 @@ Let's connect people and technology together! 🌐
 
 ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-000?style=for-the-badge&logo=Home-Assistant)
 ![Adguard](https://img.shields.io/badge/adguard-%2366B574.svg?&style=for-the-badge&logo=adguard&logoColor=white)
-
 ![Mosquitto](https://img.shields.io/badge/-Mosquitto-000?style=for-the-badge&logo=Mosquitto)
 ![MQTT](https://img.shields.io/badge/-MQTT-000?style=for-the-badge&logo=MQTT)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino)
