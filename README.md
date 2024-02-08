@@ -1,7 +1,7 @@
 # Hi 👋, I'm Hugo Pereira
 <h3 align="center">A passionate Solution Architect in Nokia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hvpereira&label=Profile%20views&color=0e75b6&style=flat" alt="hvpereira" /> </p>
+
 
 - 🔭 I’m currently working on **Home Assistant Projects**
 
