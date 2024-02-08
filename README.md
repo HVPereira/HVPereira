@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Home Assistant Projects**
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hvpereira&label=Profile%20views&color=0e75b6&style=flat" alt="hvpereira" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hvpereira&label=Profile%20views&color=0e75b6&style=flat" alt="hvpereira" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
