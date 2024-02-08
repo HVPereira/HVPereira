@@ -49,7 +49,7 @@ Let's connect people and technology together! 🌐
 
 
 ![Proxmox](https://img.shields.io/badge/-Proxmox-000?&logo=Proxmox)
-![VMware](https://img.shields.io/badge/-VMware-000?&logo=VMware)
+
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
