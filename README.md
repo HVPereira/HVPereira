@@ -76,7 +76,7 @@ Let's connect people and technology together! 🌐
 ![NGINX](https://img.shields.io/badge/nginx-%23269539.svg?&style=for-the-badge&logo=nginx&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino)
 
-![MQTT Badge](https://img.shields.io/badge/MQTT-606?logo=mqtt&logoColor=fff&style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT-606?logo=mqtt&logoColor=fff&style=for-the-badge)
 ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
 
 
