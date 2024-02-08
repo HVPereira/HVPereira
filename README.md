@@ -5,7 +5,7 @@ A passionate Solution Architect in Nokia
 - 🌱 I love to help and share my knowledge and expertise with others.
 - 🏠 My activity is usually focused but not limited to Home Assistant related projects.
 - 🤖 I also enjoy designing complex solutions with multiple nodes in any infrastructure.
-- 🎹 I love music production Ableton and Loopy Pro!
+- 🎹 I love music production in Ableton and Loopy Pro!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hvpereira&label=Profile%20views&color=0e75b6&style=flat" alt="hvpereira" /> </p>
 
