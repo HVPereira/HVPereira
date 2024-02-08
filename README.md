@@ -21,6 +21,19 @@ Let's connect people and technology together! 🌐
 
 # What I work with
 
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2b%2b&logoColor=00599C)
+![Hcl](https://img.shields.io/badge/-HCL-000?&logo=HCL)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
+![YAML](https://img.shields.io/badge/-YAML-000?&logo=YAML)
 
 
 
