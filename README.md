@@ -38,7 +38,7 @@ Let's connect people and technology together! 🌐
 
 ### Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Terragrunt](https://img.shields.io/badge/-Terragrunt-000?&logo=Terragrunt)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
