@@ -54,12 +54,6 @@ Let's connect people and technology together! 🌐
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-000?style=for-the-badge&logo=Github-Actions)
 
 
-### Other Stuff
-
-
-![TOR](https://img.shields.io/badge/-TOR-000?&logo=TOR)
-
-
 ### Home Lab
 ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-000?style=for-the-badge&logo=Home-Assistant)
 ![Mosquitto](https://img.shields.io/badge/-Mosquitto-000?style=for-the-badge&logo=Mosquitto)
