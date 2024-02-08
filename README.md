@@ -53,6 +53,26 @@ Let's connect people and technology together! 🌐
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-000?style=for-the-badge&logo=Github-Actions)
 
 
+### Other Stuff
+
+![Mosquitto](https://img.shields.io/badge/-Mosquitto-000?&logo=Mosquitto)
+![MQTT](https://img.shields.io/badge/-MQTT-000?&logo=MQTT)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
+![TOR](https://img.shields.io/badge/-TOR-000?&logo=TOR)
+
+
+### Home Lab
+![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-000?&logo=Home-Assistant)
+![Plex](https://img.shields.io/badge/-Plex-000?&logo=Plex)
+![Sonarr](https://img.shields.io/badge/-Sonarr-000?&logo=Sonarr)
+![Radarr](https://img.shields.io/badge/-Radarr-000?&logo=Radarr)
+![Jackett](https://img.shields.io/badge/-Jackett-000?&logo=Jackett)
+![Transmission](https://img.shields.io/badge/-Transmission-000?&logo=Transmission)
+![Sickrage](https://img.shields.io/badge/-Sickrage-000?&logo=Sickrage)
+![Homer](https://img.shields.io/badge/-Homer-000?&logo=Homer)
+![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)7
+![Esphome](https://img.shields.io/badge/-Esphome-000?&logo=Esphome)
 
 
 
