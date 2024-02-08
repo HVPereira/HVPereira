@@ -51,6 +51,7 @@ Let's connect people and technology together! 🌐
 ![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![Juniper]()
 ![Ansible](https://img.shields.io/badge/-Ansible-000?style=for-the-badge&logo=Ansible)
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-000?style=for-the-badge&logo=Github-Actions)
 
