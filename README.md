@@ -17,7 +17,7 @@ If you have any questions feel free to reach me out
 </p>
 <p>
 Let's connect people and technology together! 🌐
-</p>
+
 
 # What I work with
 
