@@ -66,7 +66,7 @@ Let's connect people and technology together! 🌐
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
 ![Esphome](https://img.shields.io/badge/-Esphome-000?&logo=Esphome)
-
+![Zigbee]
 
 
 
