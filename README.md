@@ -1,8 +1,6 @@
 # Hi 👋, I'm Hugo Pereira
 <h3 align="center">A passionate Solution Architect in Nokia</h3>
 
-
-
 - 🔭 I’m currently working on **Home Assistant Projects**
 
 <h3 align="left">Connect with me:</h3>
