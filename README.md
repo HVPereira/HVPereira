@@ -54,6 +54,7 @@ Let's connect people and technology together! 🌐
 ![Suse](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white)
 ![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Juniper](https://img.shields.io/badge/juniper%20networks-%2384B135.svg?&style=for-the-badge&logo=juniper%20networks&logoColor=white)
 ![F5](https://img.shields.io/badge/F5-E4002B?logo=f5&logoColor=fff&style=flat)
