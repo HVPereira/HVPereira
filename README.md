@@ -34,7 +34,7 @@ Let's connect people and technology together! 🌐
 
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
 ![YAML](https://img.shields.io/badge/-YAML-000?&logo=YAML)
 
