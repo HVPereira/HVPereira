@@ -42,7 +42,7 @@ Let's connect people and technology together! 🌐
 
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=Kubernetes)
-![Red Hat Open Shift](https://img.shields.io/badge/Red%20Hat%20Open%20Shift-E00?style=for-the-badge&logo=redhatopenshift&logoColor=fff&style=flat)
+![Red Hat Open Shift](https://img.shields.io/badge/Red%20Hat%20Open%20Shift-E00?style=for-the-badge&logo=redhatopenshift&logoColor=fff)
 ![VMware](https://img.shields.io/badge/-VMware-000?style=for-the-badge&logo=VMware)
 ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white)
 ![Virtualbox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
