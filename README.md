@@ -41,7 +41,7 @@ Let's connect people and technology together! 🌐
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=Kubernetes)
 ![VMware](https://img.shields.io/badge/-VMware-000?style=for-the-badge&logo=VMware)
-
+![RedHat]
 
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-000?&logo=Github-Actions)
