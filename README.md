@@ -33,7 +33,7 @@ Let's connect people and technology together! 🌐
 ![PostGres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
 ![YAML](https://img.shields.io/badge/-YAML-000?&logo=YAML)
