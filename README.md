@@ -42,8 +42,7 @@ Let's connect people and technology together! 🌐
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![VMware](https://img.shields.io/badge/-VMware-000?&logo=VMware)
 
-![Terragrunt](https://img.shields.io/badge/-Terragrunt-000?&logo=Terragrunt)
-![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
+
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-000?&logo=Github-Actions)
 
