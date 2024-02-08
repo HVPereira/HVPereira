@@ -46,7 +46,7 @@ Let's connect people and technology together! 🌐
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-000?&logo=Github-Actions)
-![AWS SDK](https://img.shields.io/badge/-AWS%20SDK-000?&logo=Amazon-AWS)
+
 
 
 ![Proxmox](https://img.shields.io/badge/-Proxmox-000?&logo=Proxmox)
