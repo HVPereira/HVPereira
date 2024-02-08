@@ -27,7 +27,7 @@ Let's connect people and technology together! 🌐
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-000?&logo=C%2b%2b&logoColor=00599C)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Hcl](https://img.shields.io/badge/-HCL-000?&logo=HCL)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
