@@ -75,6 +75,7 @@ Let's connect people and technology together! 🌐
 ![Tasmota](https://img.shields.io/badge/tasmota-%231FA3EC.svg?&style=for-the-badge&logo=tasmota&logoColor=white)
 ![NGINX](https://img.shields.io/badge/nginx-%23269539.svg?&style=for-the-badge&logo=nginx&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino)
+
 ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
 
 
