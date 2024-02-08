@@ -62,7 +62,7 @@ Let's connect people and technology together! 🌐
 ![Github ](https://img.shields.io/badge/-Github%20Actions-000?style=for-the-badge&logo=Github-Actions)
 
 
-### Home Lab!!! 🏠 
+### Home Lab 🏠 
 
 ![Synology](https://img.shields.io/badge/synology-%23B5B5B6.svg?&style=for-the-badge&logo=synology&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?style=for-the-badge&logo=Raspberry-Pi)
