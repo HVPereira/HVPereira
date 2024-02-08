@@ -71,4 +71,3 @@ Let's connect people and technology together! 🌐
 If you like my work buy me a coffee!! 
 
 <p><a href="https://www.buymeacoffee.com/hvpereira"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hvpereira" /></a></p><br><br>
-
