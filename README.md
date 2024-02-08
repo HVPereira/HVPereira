@@ -46,7 +46,7 @@ Let's connect people and technology together! 🌐
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-000?&logo=Github-Actions)
 ![AWS SDK](https://img.shields.io/badge/-AWS%20SDK-000?&logo=Amazon-AWS)
 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+
 ![Proxmox](https://img.shields.io/badge/-Proxmox-000?&logo=Proxmox)
 ![VMware](https://img.shields.io/badge/-VMware-000?&logo=VMware)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
