@@ -41,6 +41,7 @@ Let's connect people and technology together! 🌐
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=Kubernetes)
 ![VMware](https://img.shields.io/badge/-VMware-000?style=for-the-badge&logo=VMware)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Suse](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white)
