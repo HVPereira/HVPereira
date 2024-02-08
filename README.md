@@ -5,7 +5,7 @@
 - 🔭 I’m mainly working on full stack web development with modern tools such as React and TypeScript.
 - 🌱 I love to help and share my knowledge and expertise with others. I enjoy working on Open Source and helping people getting the most from my contributions.
 - 🏠 My activity is usually focused but not limited to Home Assistant related projects. I'm the founder and maintainer of Awesome HA Blueprints.
-🤖 I also enjoy designing complex and highly automated CI/CD pipelines with the GitHub Actions ecosystem.
+- 🤖 I also enjoy designing complex and highly automated CI/CD pipelines with the GitHub Actions ecosystem.
 📷 I’m a free time photographer and videomaker.
 🎹 I love playing the piano!
 
