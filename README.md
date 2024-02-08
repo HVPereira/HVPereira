@@ -61,7 +61,7 @@ Let's connect people and technology together! 🌐
 
 ### Home Lab
 ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-000?&logo=Home-Assistant)
-![Mosquitto](https://img.shields.io/badge/-Mosquitto-000?&logo=Mosquitto)
+![Mosquitto](https://img.shields.io/badge/-Mosquitto-000?style=for-the-badge&logo=Mosquitto)
 ![MQTT](https://img.shields.io/badge/-MQTT-000?style=for-the-badge&logo=MQTT)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino)
