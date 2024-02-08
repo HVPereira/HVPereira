@@ -7,7 +7,7 @@ A passionate Solution Architect in Nokia
 - 🤖 I also enjoy designing complex solutions with multiple nodes in any infrastructure.
 - 🎹 I love music production in Ableton and Loopy Pro!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hvpereira&label=Profile%20views&color=0e75b6&style=flat" alt="hvpereira" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hvpereira&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="hvpereira" /> </p>
 
 # Let's get in touch!!!  📫
 
