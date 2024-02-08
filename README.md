@@ -38,7 +38,6 @@ Let's connect people and technology together! 🌐
 
 ### Technologies
 
-
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Terragrunt](https://img.shields.io/badge/-Terragrunt-000?&logo=Terragrunt)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
