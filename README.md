@@ -7,7 +7,7 @@
 - 🏠 My activity is usually focused but not limited to Home Assistant related projects. I'm the founder and maintainer of Awesome HA Blueprints.
 - 🤖 I also enjoy designing complex and highly automated CI/CD pipelines with the GitHub Actions ecosystem.
 - 📷 I’m a free time photographer and videomaker.
-- 🎹 I love playing the piano!
+- 🎹 I love music production Ableton and Loopy Pro!
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hvpereira&label=Profile%20views&color=0e75b6&style=flat" alt="hvpereira" /> </p>
 
