@@ -55,10 +55,7 @@ Let's connect people and technology together! 🌐
 
 ### Other Stuff
 
-![Mosquitto](https://img.shields.io/badge/-Mosquitto-000?&logo=Mosquitto)
-![MQTT](https://img.shields.io/badge/-MQTT-000?&logo=MQTT)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?&logo=Raspberry-Pi)
-![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
+
 ![TOR](https://img.shields.io/badge/-TOR-000?&logo=TOR)
 
 
