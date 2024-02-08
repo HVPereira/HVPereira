@@ -66,6 +66,7 @@ Let's connect people and technology together! 🌐
 ![MQTT](https://img.shields.io/badge/-MQTT-000?style=for-the-badge&logo=MQTT)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino)
 ![Esphome](https://img.shields.io/badge/-Esphome-000?style=for-the-badge&logo=Esphome)
+![Tasmota](https://img.shields.io/badge/tasmota-%231FA3EC.svg?&style=for-the-badge&logo=tasmota&logoColor=white)
 ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
 
 
