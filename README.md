@@ -52,7 +52,7 @@ Let's connect people and technology together! 🌐
 
 
 ![Ansible](https://img.shields.io/badge/-Ansible-000?style=for-the-badge&logo=Ansible)
-![Github Actions](https://img.shields.io/badge/-Github%20Actions-000?&logo=Github-Actions)
+![Github Actions](https://img.shields.io/badge/-Github%20Actions-000?style=for-the-badge&logo=Github-Actions)
 
 
 
