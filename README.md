@@ -55,7 +55,7 @@ Let's connect people and technology together! 🌐
 
 
 ### Home Lab
-![Synology](https://a11ybadges.com/badge?logo=synology)
+![Synology](https://img.shields.io/badge/?logo=synology)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?style=for-the-badge&logo=Raspberry-Pi)
 ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-000?style=for-the-badge&logo=Home-Assistant)
 ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
