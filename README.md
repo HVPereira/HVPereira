@@ -11,6 +11,7 @@
 
 # Let's get in touch!!!  📫
 
+If you have any questions feel free to reach me out
 <p align="left">
 <a href="https://linkedin.com/in/hvpereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hvpereira" height="30" width="40" /></a>
 </p>
