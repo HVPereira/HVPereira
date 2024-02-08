@@ -43,7 +43,7 @@ Let's connect people and technology together! 🌐
 ![VMware](https://img.shields.io/badge/-VMware-000?style=for-the-badge&logo=VMware)
 ![RedHat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Suse](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white)
-![Ubuntu]()
+![Ubuntu](    https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-000?&logo=Github-Actions)
