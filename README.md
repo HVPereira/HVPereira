@@ -65,7 +65,7 @@ Let's connect people and technology together! 🌐
 ![MQTT](https://img.shields.io/badge/-MQTT-000?&logo=MQTT)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
-![Esphome](https://img.shields.io/badge/-Esphome-000?&logo=Esphome)
+![Esphome](https://img.shields.io/badge/-Esphome-000?style=for-the-badge&logo=Esphome)
 ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
 
 
