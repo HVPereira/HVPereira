@@ -1,5 +1,5 @@
 # Hi 👋, I'm Hugo Pereira
-<h3 align="left">A passionate Solution Architect in Nokia</h3>
+A passionate Solution Architect in Nokia</h3>
 
 - 🔭 I’m currently working on **5G Core Projects**.
 - 🌱 I love to help and share my knowledge and expertise with others.
