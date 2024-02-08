@@ -13,7 +13,7 @@ A passionate Solution Architect in Nokia
 
 If you have any questions feel free to reach me out
 <p align="left">
-<a href="https://linkedin.com/in/hvpereira" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="hvpereira" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hvpereira" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="hvpereira" /></a>
 </p>
 
 Let's connect people and technology together! 🌐
