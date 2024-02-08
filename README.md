@@ -7,7 +7,7 @@
 - 🤖 I also enjoy designing complex solutions with multiple nodes in any infrastructure.
 - 🎹 I love music production Ableton and Loopy Pro!
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hvpereira&label=Profile%20views&color=0e75b6&style=flat" alt="hvpereira" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hvpereira&label=Profile%20views&color=0e75b6&style=flat" alt="hvpereira" /> </p>
 
 # Let's get in touch!!!  📫
 
