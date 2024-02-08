@@ -62,7 +62,7 @@ Let's connect people and technology together! 🌐
 ![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=Arduino)
 ![Esphome](https://img.shields.io/badge/-Esphome-000?style=for-the-badge&logo=Esphome)
 ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
-![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
+
 
 
 
