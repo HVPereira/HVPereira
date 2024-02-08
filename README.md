@@ -38,7 +38,7 @@ Let's connect people and technology together! 🌐
 
 ### Technologies
 
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![VMware](https://img.shields.io/badge/-VMware-000?&logo=VMware)
 
