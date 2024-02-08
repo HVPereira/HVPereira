@@ -67,6 +67,7 @@ Let's connect people and technology together! 🌐
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?style=for-the-badge&logo=Raspberry-Pi)
 ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
 
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=fff)
 ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-000?style=for-the-badge&logo=Home-Assistant)
 ![Adguard](https://img.shields.io/badge/adguard-%2366B574.svg?&style=for-the-badge&logo=adguard&logoColor=white)
 ![Mosquitto](https://img.shields.io/badge/-Mosquitto-000?style=for-the-badge&logo=Mosquitto)
