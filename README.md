@@ -9,7 +9,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hvpereira&label=Profile%20views&color=0e75b6&style=flat" alt="hvpereira" /> </p>
 
-# Get In 
+# Let's get in touch!!! 
 <p align="left">
 <a href="https://linkedin.com/in/hvpereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hvpereira" height="30" width="40" /></a>
 </p>
