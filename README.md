@@ -30,6 +30,7 @@ Let's connect people and technology together! 🌐
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Hcl](https://img.shields.io/badge/-HCL-000?&logo=HCL)
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
