@@ -16,7 +16,7 @@ If you have any questions feel free to reach me out
 <a href="https://linkedin.com/in/hvpereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hvpereira" height="30" width="40" /></a>
 </p>
 <p>
-Let's connect people and technology together!  🌐✨
+Let's connect people and technology together!  🌐
 </p>
 
 # What I work with
