@@ -25,7 +25,7 @@ Let's connect people and technology together! 🌐
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C#](https://img.shields.io/badge/-C#-000?&logo=C)
+![C#](https://img.shields.io/badge/-C#-000?&logo=C#)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2b%2b&logoColor=00599C)
 ![Hcl](https://img.shields.io/badge/-HCL-000?&logo=HCL)
